@@ -1,5 +1,6 @@
 # OMISS-Awards
-Excel template to calculate OMISS awards based on imported ADI logs
+Excel template to calculate OMISS awards based on imported ADI logs.
+For more information on these awards and how to become a member, please visit https://www.omiss.net/
 
 Originally written by Mike Maddox, this template will read your imported ADI files and generate results for each OMISS award.
 Updated by Paul Reedy - KA5PMV

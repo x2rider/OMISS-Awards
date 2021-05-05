@@ -6,6 +6,10 @@ Originally written by Mike Maddox (KI6WOX) and recently updated by Paul Reedy (K
 
 Download the files.  Add your call sign and OMISS number to the OC_Config tab, press the Download Rosters button, and you're ready to go.  Then you can run a script for each award you're interested in, to see how close you are to completing that award.
 
+## Compatibility
+
+This has been tested on Windows and Mac with the latest version of Excel.
+It does not work on Excel 2010.
 
 ## Note
 

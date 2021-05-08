@@ -14,10 +14,6 @@ It does not work on Excel 2010.
 ## Note
 
 There's been some requests for this to be available either in Google Sheets or OpenOffice.  
-Unfortunately with the amount of scripting to make this spreadsheet work, it will not work in either case.
-It would take new development effort to make this happen.
-While I'm open to the opportunity, and may do some experimenting, there's probably no way I can keep up with the updates that Mike puts out, replicate that across 3 platforms, and do any needed maintenance or improvements.
-This is why I put this here on Github, to encourage other developers/hams to join in supporting this handy tool.
-Please contact me if you're interested in expanding this to other common platforms, I'll be glad to add them to this repository.
+Mike has provided me with an Open Office version of the template.  I'm going to work on it to bring it up to date like the Excel template, then I'll post it here.
 
 Paul - KA5PMV

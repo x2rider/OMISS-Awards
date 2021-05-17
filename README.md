@@ -12,11 +12,6 @@ Originally written by Mike Maddox (KI6WOX) and recently updated by Paul Reedy (K
 ## Compatibility
 
 This has been tested on Windows and Mac with the latest version of Excel.
-It does not work on Excel 2010.
-
-## Note
-
-There's been some requests for this to be available either in Google Sheets or OpenOffice.  
-Mike has provided me with an Open Office version of the template.  I'm going to work on it to bring it up to date like the Excel template, then I'll post it here.
+It does not work on Excel 2010 or older.
 
 Paul - KA5PMV

@@ -11,7 +11,7 @@ Originally written by Mike Maddox and recently updated by Paul Reedy (KA5PMV), t
 
 ## Compatibility
 
-This has been tested on Windows and Mac with the latest version of Excel.
+This has been tested on Windows and Mac with the latest version of Excel and OpenOffice Calc.
 It does not work on Excel 2010 or older.
 
 Paul - KA5PMV

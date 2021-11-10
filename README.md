@@ -8,6 +8,7 @@ Originally written by Mike Maddox and recently updated by Paul Reedy (KA5PMV), t
 * Add your call sign and OMISS number to the OC_Config tab, 
 * Import your ADI file from Netlogger (or other logging software such as N3FJP logger using the "Other" field)
 * Click "Run All Awards" button, to see how close you are to completing all of the awards.
+* From then on, just add your new contacts from each day as you make them, select your new contacts ADI file, and read those in.  Do Not import the same contacts again, as that will create duplicates.
 
 ## Compatibility
 

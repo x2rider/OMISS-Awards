@@ -2,7 +2,7 @@
 Excel and OpenOffice calc templates to calculate OMISS awards based on imported ADI contact logs.
 For more information on these awards and how to become a member, please visit https://www.omiss.net/
 
-Originally written by Mike Maddox and recently updated by Paul Reedy (KA5PMV), this template will read your exmported ADI files from Netlogger and generate results for each OMISS award.
+Originally written by Mike Maddox and recently updated by Paul Reedy (KA5PMV), this template will read your exported ADI files from Netlogger and generate results for each OMISS award.
 
 * Download the files.  
 * Add your call sign and OMISS number to the OC_Config tab, 

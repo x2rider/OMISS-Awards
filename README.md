@@ -15,6 +15,9 @@ Originally written by Mike Maddox and recently updated by Paul Reedy (KA5PMV), t
 
 ## NEW!! Excel Add-in
 A new Excel Add-In is available in the Excel folder to make it easier to run all awards and selected scripts.
+View how to install and use the Add-In here https://youtu.be/2YXONHvJadY
+
+To Install:
 * Exit Excel
 * Download OMISS.xlam and InstallOmissAdd-in.cmd to the your computer.
 * Right click on OMISS.xlam and select Properties.

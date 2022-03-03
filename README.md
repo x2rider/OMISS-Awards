@@ -13,6 +13,14 @@ Originally written by Mike Maddox and recently updated by Paul Reedy (KA5PMV), t
 * Click "Run All Awards" button, to see how close you are to completing all of the awards.
 * From then on, just add your new contacts from each day as you make them, select your new contacts ADI file, and read those in.  Do Not import the same contacts again, as that will create duplicates.
 
+## NEW!! Excel Add-in
+A new Excel Add-In is available in the Excel folder to make it easier to run all awards and selected scripts.
+* Exit Excel
+* Download OMISS.xlam and InstallOmissAdd-in.cmd to the your computer.
+* Right click on OMISS.xlam and select Properties.
+* Check the "Un Block" checkbox to remove the "Mark of the Web".  If you don't do this, the tool will not load.
+* Double-Click the install command file, it should put the tool in the %APPDATA%\Roaming\Microsoft\AddIns directory
+
 ## Compatibility
 
 This has been tested on Windows and Mac with the latest version of Excel and OpenOffice Calc.

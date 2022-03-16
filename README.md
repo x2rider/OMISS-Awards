@@ -1,5 +1,5 @@
 # OMISS-Awards
-Excel and OpenOffice calc templates to calculate OMISS awards based on imported ADI contact logs.
+Excel and LibreOffice calc templates to calculate OMISS awards based on imported ADI contact logs.
 For more information on these awards and how to become a member, please visit https://www.omiss.net/
 
 A video walkthrough on how to use the spreadsheets is located here: https://www.youtube.com/watch?v=EBXyA3ZQAcg
@@ -26,7 +26,9 @@ To Install:
 
 ## Compatibility
 
-This has been tested on Windows and Mac with the latest version of Excel and OpenOffice Calc.
+This has been tested on Windows and Mac with the latest version of Excel and LibreOffice Calc.
 It does not work on Excel 2010 or older.
+
+NOTE:  While the Alternative to Excel was originally OpenOffice, There is a bug with OpenOffice, which prevents the full membership roster from loading, which will affect awards.  Please use LibreOffice instead of OpenOffice.
 
 Paul - KA5PMV

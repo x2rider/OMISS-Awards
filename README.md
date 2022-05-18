@@ -13,8 +13,10 @@ Originally written by Mike Maddox and recently updated by Paul Reedy (KA5PMV), t
 * Click "Run All Awards" button, to see how close you are to completing all of the awards.
 * From then on, just add your new contacts from each day as you make them, select your new contacts ADI file, and read those in.  Do Not import the same contacts again, as that will create duplicates.
 
-## NEW!! Excel Add-in
-A new Excel Add-In is available in the Excel folder to make it easier to run all awards and selected scripts.
+## NEW!! LibreOffice OMISS menu bar
+A new LibreOffice menu bar has been added, which has similar features as the Excel Add-In without having to install anything.
+
+An Excel Add-In is available in the Excel folder to make it easier to run all awards and selected scripts.
 View how to install and use the Add-In here https://youtu.be/2YXONHvJadY
 
 To Install:

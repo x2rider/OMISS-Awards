@@ -6,7 +6,7 @@ A video walkthrough on how to use the spreadsheets is located here: https://www.
 
 Originally written by Mike Maddox and recently updated by Paul Reedy (KA5PMV), this template will read your exported ADI files from Netlogger and generate results for each OMISS award.
 
-* Download the files.  
+* Download either the Excel or Libre Office version of the files.  
 * Add your call sign and OMISS number to the OC_Config tab, 
 * Import your ADI file from Netlogger (or other logging software such as N3FJP logger using the "Other" field using the format: 
 `"OMISS OM#"` where OM# is the Omiss number of the station you worked)'
